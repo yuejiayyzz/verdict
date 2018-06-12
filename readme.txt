@@ -5,3 +5,5 @@ Git tracks changes of files.
 
 
 Creating a new branch & quick `and` simple.
+
+Forbidden fast forward model.
